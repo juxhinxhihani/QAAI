@@ -18,5 +18,9 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_Extensions_ApiDescription_Server Condition=" '$(PkgMicrosoft_Extensions_ApiDescription_Server)' == '' ">/Users/juxhinxhihani/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5</PkgMicrosoft_Extensions_ApiDescription_Server>
+    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">/Users/juxhinxhihani/.nuget/packages/awssdk.core/3.7.400.46</PkgAWSSDK_Core>
+    <PkgAWSSDK_S3 Condition=" '$(PkgAWSSDK_S3)' == '' ">/Users/juxhinxhihani/.nuget/packages/awssdk.s3/3.7.405.10</PkgAWSSDK_S3>
+    <PkgAWSSDK_BedrockRuntime Condition=" '$(PkgAWSSDK_BedrockRuntime)' == '' ">/Users/juxhinxhihani/.nuget/packages/awssdk.bedrockruntime/3.7.408</PkgAWSSDK_BedrockRuntime>
+    <PkgAWSSDK_Bedrock Condition=" '$(PkgAWSSDK_Bedrock)' == '' ">/Users/juxhinxhihani/.nuget/packages/awssdk.bedrock/3.7.409.4</PkgAWSSDK_Bedrock>
   </PropertyGroup>
 </Project>

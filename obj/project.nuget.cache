@@ -1,12 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "zZ9Aj2u+o0uYuce0yeuaa/zWSVVFDI5t3VQzwQSQ5SZkBEFajkDfmfLk8b9nU0MoTYNbhH8aKusMOWyADb7JZg==",
+  "dgSpecHash": "IqB4TOJsvnMmijbFpl/Sm3uqsJixldmMsCR29fpWCVenAnP6gQxrRcArydCBkVaH9EmAdlJ2GK0ii++YhiM9zQ==",
   "success": true,
   "projectFilePath": "/Users/juxhinxhihani/MyProjects/QAAI/QAAI.csproj",
   "expectedPackageFiles": [
+    "/Users/juxhinxhihani/.nuget/packages/awssdk.bedrock/3.7.409.4/awssdk.bedrock.3.7.409.4.nupkg.sha512",
+    "/Users/juxhinxhihani/.nuget/packages/awssdk.bedrockruntime/3.7.408/awssdk.bedrockruntime.3.7.408.nupkg.sha512",
+    "/Users/juxhinxhihani/.nuget/packages/awssdk.core/3.7.400.46/awssdk.core.3.7.400.46.nupkg.sha512",
+    "/Users/juxhinxhihani/.nuget/packages/awssdk.s3/3.7.405.10/awssdk.s3.3.7.405.10.nupkg.sha512",
     "/Users/juxhinxhihani/.nuget/packages/microsoft.aspnetcore.openapi/8.0.1/microsoft.aspnetcore.openapi.8.0.1.nupkg.sha512",
     "/Users/juxhinxhihani/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/juxhinxhihani/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/juxhinxhihani/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
     "/Users/juxhinxhihani/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/Users/juxhinxhihani/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/Users/juxhinxhihani/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",

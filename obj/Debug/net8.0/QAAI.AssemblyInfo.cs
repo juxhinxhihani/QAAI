@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QAAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8901f793704978216b5f7b12a3bd6a13097431aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("QAAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QAAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
